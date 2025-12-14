@@ -1,0 +1,3 @@
+﻿  ChadaTechClock.cpp
+C:\Users\diese\OneDrive\Desktop\Repos\ChadaTechClock\ChadaTechClock\ChadaTechClock.cpp(107,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ChadaTechClock.vcxproj -> C:\Users\diese\OneDrive\Desktop\Repos\ChadaTechClock\x64\Debug\ChadaTechClock.exe

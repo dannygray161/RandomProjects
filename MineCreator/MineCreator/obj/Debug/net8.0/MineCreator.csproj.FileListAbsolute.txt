@@ -1,0 +1,14 @@
+C:\Users\diese\OneDrive\Desktop\Repos\MineCreator\MineCreator\bin\Debug\net8.0\MineCreator.exe
+C:\Users\diese\OneDrive\Desktop\Repos\MineCreator\MineCreator\bin\Debug\net8.0\MineCreator.deps.json
+C:\Users\diese\OneDrive\Desktop\Repos\MineCreator\MineCreator\bin\Debug\net8.0\MineCreator.runtimeconfig.json
+C:\Users\diese\OneDrive\Desktop\Repos\MineCreator\MineCreator\bin\Debug\net8.0\MineCreator.dll
+C:\Users\diese\OneDrive\Desktop\Repos\MineCreator\MineCreator\bin\Debug\net8.0\MineCreator.pdb
+C:\Users\diese\OneDrive\Desktop\Repos\MineCreator\MineCreator\obj\Debug\net8.0\MineCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diese\OneDrive\Desktop\Repos\MineCreator\MineCreator\obj\Debug\net8.0\MineCreator.AssemblyInfoInputs.cache
+C:\Users\diese\OneDrive\Desktop\Repos\MineCreator\MineCreator\obj\Debug\net8.0\MineCreator.AssemblyInfo.cs
+C:\Users\diese\OneDrive\Desktop\Repos\MineCreator\MineCreator\obj\Debug\net8.0\MineCreator.csproj.CoreCompileInputs.cache
+C:\Users\diese\OneDrive\Desktop\Repos\MineCreator\MineCreator\obj\Debug\net8.0\MineCreator.dll
+C:\Users\diese\OneDrive\Desktop\Repos\MineCreator\MineCreator\obj\Debug\net8.0\refint\MineCreator.dll
+C:\Users\diese\OneDrive\Desktop\Repos\MineCreator\MineCreator\obj\Debug\net8.0\MineCreator.pdb
+C:\Users\diese\OneDrive\Desktop\Repos\MineCreator\MineCreator\obj\Debug\net8.0\MineCreator.genruntimeconfig.cache
+C:\Users\diese\OneDrive\Desktop\Repos\MineCreator\MineCreator\obj\Debug\net8.0\ref\MineCreator.dll

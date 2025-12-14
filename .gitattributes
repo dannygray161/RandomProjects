@@ -1,0 +1,4 @@
+Repos.zip filter=lfs diff=lfs merge=lfs -text
+# Explicitly set C++ and Header files to LF (Unix) line endings
+*.cpp text eol=lf
+*.h text eol=lf
