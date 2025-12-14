@@ -1,0 +1,38 @@
+# Visual Studio files and folders
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vsp
+*.ipch  # <-- This specifically handles the large PCH files giving warnings
+*.sdf
+
+# Build results and compiled files
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.lib
+
+# Visual Studio Cache, Backup, and IDE folders
+.vs/
+ipch/
+*.aps
+*.bak
+*~
+
+# NuGet packages (if using .NET)
+packages/
+
+# Common C++ / Code Editor files
+*.[Tt]mp
+*.log
